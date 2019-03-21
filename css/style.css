@@ -1,0 +1,11 @@
+#result h1{
+    color: #ff660e;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#result span{
+    color: #1e0c80;
+    font-size: 16px;
+    font-weight: normal;
+}
